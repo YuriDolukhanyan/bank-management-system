@@ -74,7 +74,10 @@ Account Type: Savings
 ```
 
 ## Code Structure:
-* **`bank_system.cpp`**: The main C++ file where the program logic resides. * The system initializes global variables to keep track of total savings and current accounts. * **`Account`** class defines the structure and behavior of bank accounts. * Functions for creating accounts, validating inputs, and displaying account details are provided.
+* **`bank_system.cpp`**: The main C++ file where the program logic resides.
+* The system initializes global variables to keep track of total savings and current accounts.
+* **`Account`** class defines the structure and behavior of bank accounts.
+* Functions for creating accounts, validating inputs, and displaying account details are provided.
 
 
 
